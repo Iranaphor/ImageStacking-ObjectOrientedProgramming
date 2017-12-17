@@ -1,0 +1,90 @@
+﻿  io.cpp
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(35): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(175): warning C4244: '+=': conversion from 'float' to 'short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4305: 'return': truncation from 'int' to 'short'
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4309: 'return': truncation of constant value
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(281): warning C4244: 'initializing': conversion from 'const float' to 'unsigned short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4056: overflow in floating-point constant arithmetic
+  main.cpp
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(35): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(175): warning C4244: '+=': conversion from 'float' to 'short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4305: 'return': truncation from 'int' to 'short'
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4309: 'return': truncation of constant value
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(281): warning C4244: 'initializing': conversion from 'const float' to 'unsigned short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4056: overflow in floating-point constant arithmetic
+main.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(372): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(586): warning C4018: '>': signed/unsigned mismatch
+main.cpp(613): warning C4018: '>': signed/unsigned mismatch
+main.cpp(647): warning C4018: '>': signed/unsigned mismatch
+main.cpp(683): warning C4018: '>': signed/unsigned mismatch
+main.cpp(93): warning C4101: 'zloopR5': unreferenced local variable
+main.cpp(92): warning C4101: 'zloopR4': unreferenced local variable
+main.cpp(91): warning C4101: 'zloopR3': unreferenced local variable
+main.cpp(90): warning C4101: 'zloopR2': unreferenced local variable
+  stackerBasic.cpp
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(35): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(175): warning C4244: '+=': conversion from 'float' to 'short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4305: 'return': truncation from 'int' to 'short'
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4309: 'return': truncation of constant value
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(281): warning C4244: 'initializing': conversion from 'const float' to 'unsigned short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4056: overflow in floating-point constant arithmetic
+stackerBasic.cpp(115): warning C4244: '=': conversion from 'short' to 'unsigned char', possible loss of data
+stackerBasic.cpp(129): warning C4244: '=': conversion from 'short' to 'unsigned char', possible loss of data
+stackerBasic.cpp(143): warning C4244: '=': conversion from 'short' to 'unsigned char', possible loss of data
+stackerBasic.cpp(166): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+stackerBasic.cpp(171): warning C4018: '<': signed/unsigned mismatch
+stackerBasic.cpp(204): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+stackerBasic.cpp(211): warning C4018: '<': signed/unsigned mismatch
+stackerBasic.cpp(224): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+stackerBasic.cpp(225): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+stackerBasic.cpp(227): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+stackerBasic.cpp(228): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+stackerBasic.cpp(230): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+stackerBasic.cpp(231): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+stackerBasic.cpp(263): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+stackerBasic.cpp(264): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+stackerBasic.cpp(265): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+stackerBasic.cpp(277): warning C4018: '<': signed/unsigned mismatch
+stackerBasic.cpp(278): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+stackerBasic.cpp(279): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+stackerBasic.cpp(280): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  stackerRolling.cpp
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(35): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(175): warning C4244: '+=': conversion from 'float' to 'short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4305: 'return': truncation from 'int' to 'short'
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4309: 'return': truncation of constant value
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(281): warning C4244: 'initializing': conversion from 'const float' to 'unsigned short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4056: overflow in floating-point constant arithmetic
+stackerRolling.cpp(19): warning C4018: '<': signed/unsigned mismatch
+stackerRolling.cpp(45): warning C4018: '<': signed/unsigned mismatch
+stackerRolling.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  zoom.cpp
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(35): warning C4244: '+=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(175): warning C4244: '+=': conversion from 'float' to 'short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4305: 'return': truncation from 'int' to 'short'
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(223): warning C4309: 'return': truncation of constant value
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(281): warning C4244: 'initializing': conversion from 'const float' to 'unsigned short', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project3 60\project3\Image.h(314): warning C4056: overflow in floating-point constant arithmetic
+zoom.cpp(133): warning C4101: 'io': unreferenced local variable
+zoom.cpp(252): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  Generating code
+  All 371 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project3.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Project3 60\Release\HES15591313 OOP Assignment.exe
+  Project3.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Project3 60\Release\HES15591313 OOP Assignment.pdb (Full PDB)
